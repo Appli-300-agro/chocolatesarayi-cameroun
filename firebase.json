@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "chocolatesarayi-cameroun",
+    "site": "chocolatesarayi-cameroun-us4nq",
     "public": "dist",
     "ignore": [
       "firebase.json",
